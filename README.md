@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mehak-Afreen
-- 👀 I’m interested in ...
+- 👀 I’m interested in Data analysis
 - 🌱 I’m currently learning AIML Engineering
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me mehakafreen989@gmail.com
